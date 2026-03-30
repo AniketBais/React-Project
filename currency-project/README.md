@@ -50,7 +50,9 @@ This repository is my **React learning journey** where I:
 
 ### Currency Converter App
 
-![Currency Converter](./currency-project/public/UI.png)
+
+<img width="959" height="415" alt="UI" src="https://github.com/user-attachments/assets/cabbd25b-a53a-4103-8e03-35d3d1ba03a6" />
+
                                         
 
 ---
