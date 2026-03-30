@@ -1,16 +1,68 @@
-# React + Vite
+# 🚀 React Projects Collection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my React projects repository!  
+This repo contains a collection of React applications that I build while learning and improving my frontend skills.
 
-Currently, two official plugins are available:
+Each project focuses on different React concepts, UI design, and real-world functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📂 Projects Included
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 💱 Currency Converter App
+A modern currency converter built with React + Vite.
 
-## Expanding the ESLint configuration
+**Features**
+- Real-time currency conversion
+- Swap currencies
+- Custom React hooks
+- Reusable components
+- Beautiful UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📁 Folder: `currency-project`
+
+👉 More projects coming soon...
+
+---
+
+## 🛠️ Tech Stack Used Across Projects
+
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- REST APIs
+- Git & GitHub
+
+---
+
+## 🎯 Purpose of This Repository
+
+This repository is my **React learning journey** where I:
+- Practice React fundamentals
+- Build mini projects
+- Improve UI/UX skills
+- Learn real-world development workflow
+
+---
+
+## 📸 Project Preview
+
+### Currency Converter App
+
+![Currency Converter](./currency-project/public/UI.png)
+                                        
+
+---
+
+## 🧑‍💻 Author
+
+**Aniket Bais**
+
+- GitHub: https://github.com/AniketBais
+
+---
+
+## ⭐ Support
+
+If you like my projects, consider giving this repository a ⭐
