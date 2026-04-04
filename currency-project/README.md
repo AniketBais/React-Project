@@ -1,12 +1,3 @@
-# 🚀 React Projects Collection
-
-Welcome to my React projects repository!  
-This repo contains a collection of React applications that I build while learning and improving my frontend skills.
-
-Each project focuses on different React concepts, UI design, and real-world functionality.
-
----
-
 ## 📂 Projects Included
 
 ### 💱 Currency Converter App
@@ -50,7 +41,9 @@ This repository is my **React learning journey** where I:
 
 ### Currency Converter App
 
-![Currency Converter](./currency-project/public/UI.png)
+
+<img width="959" height="415" alt="UI" src="https://github.com/user-attachments/assets/cabbd25b-a53a-4103-8e03-35d3d1ba03a6" />
+
                                         
 
 ---
